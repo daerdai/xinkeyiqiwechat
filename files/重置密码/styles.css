@@ -270,3 +270,25 @@
   color:#999999;
   text-align:left;
 }
+#u22 {
+  position:absolute;
+  left:624px;
+  top:500px;
+  width:100px;
+  height:30px;
+  color:#FFFFFF;
+}
+#u22_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#u23 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:96px;
+  word-wrap:break-word;
+}

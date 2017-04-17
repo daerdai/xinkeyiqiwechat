@@ -270,3 +270,26 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u23 {
+  position:absolute;
+  left:730px;
+  top:740px;
+  width:100px;
+  height:30px;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u23_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#u24 {
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:96px;
+  word-wrap:break-word;
+}
